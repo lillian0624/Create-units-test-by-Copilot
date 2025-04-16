@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nW22zznrDcA=",
+  "dgSpecHash": "OVO0wTVyMRw=",
   "success": true,
-  "projectFilePath": "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/TestProject1/PrimeService.UnitTests.csproj",
+  "projectFilePath": "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/TestProject1/PrimeService.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/yangli/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/yangli/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
@@ -92,7 +92,9 @@
     "/Users/yangli/.nuget/packages/xunit.core/2.5.3/xunit.core.2.5.3.nupkg.sha512",
     "/Users/yangli/.nuget/packages/xunit.extensibility.core/2.5.3/xunit.extensibility.core.2.5.3.nupkg.sha512",
     "/Users/yangli/.nuget/packages/xunit.extensibility.execution/2.5.3/xunit.extensibility.execution.2.5.3.nupkg.sha512",
-    "/Users/yangli/.nuget/packages/xunit.runner.visualstudio/2.5.3/xunit.runner.visualstudio.2.5.3.nupkg.sha512"
+    "/Users/yangli/.nuget/packages/xunit.runner.visualstudio/2.5.3/xunit.runner.visualstudio.2.5.3.nupkg.sha512",
+    "/Users/yangli/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/yangli/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
   ],
   "logs": []
 }

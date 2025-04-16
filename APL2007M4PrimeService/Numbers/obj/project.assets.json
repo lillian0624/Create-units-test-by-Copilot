@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/Numbers/Numbers.csproj",
+      "projectUniqueName": "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/Numbers/Numbers.csproj",
       "projectName": "Numbers",
-      "projectPath": "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/Numbers/Numbers.csproj",
+      "projectPath": "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/Numbers/Numbers.csproj",
       "packagesPath": "/Users/yangli/.nuget/packages/",
-      "outputPath": "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/Numbers/obj/",
+      "outputPath": "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/Numbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yangli/.nuget/NuGet/NuGet.Config"
@@ -216,7 +216,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "netstandard2.0": {
@@ -240,7 +241,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

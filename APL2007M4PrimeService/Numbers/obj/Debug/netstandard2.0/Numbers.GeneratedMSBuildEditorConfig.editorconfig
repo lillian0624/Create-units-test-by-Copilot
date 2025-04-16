@@ -1,5 +1,8 @@
 is_global = true
 build_property.RootNamespace = Numbers
-build_property.ProjectDir = /Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/Numbers/
+build_property.ProjectDir = /Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/Numbers/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

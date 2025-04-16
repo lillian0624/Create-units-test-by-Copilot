@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yucLpgVps7w=",
+  "dgSpecHash": "IjUBYDsc6xs=",
   "success": true,
-  "projectFilePath": "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/Numbers/Numbers.csproj",
+  "projectFilePath": "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/Numbers/Numbers.csproj",
   "expectedPackageFiles": [
     "/Users/yangli/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/yangli/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"

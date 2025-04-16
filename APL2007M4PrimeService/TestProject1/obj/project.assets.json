@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/TestProject1/PrimeService.UnitTests.csproj",
+      "projectUniqueName": "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/TestProject1/PrimeService.UnitTests.csproj",
       "projectName": "PrimeService.UnitTests",
-      "projectPath": "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/TestProject1/PrimeService.UnitTests.csproj",
+      "projectPath": "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/TestProject1/PrimeService.UnitTests.csproj",
       "packagesPath": "/Users/yangli/.nuget/packages/",
-      "outputPath": "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/TestProject1/obj/",
+      "outputPath": "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/TestProject1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yangli/.nuget/NuGet/NuGet.Config"
@@ -5549,8 +5549,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/Numbers/Numbers.csproj": {
-              "projectPath": "/Users/yangli/Downloads/SampleApps/APL2007M4PrimeService/Numbers/Numbers.csproj"
+            "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/Numbers/Numbers.csproj": {
+              "projectPath": "/Users/yangli/learning/Create-units-test-by-Copilot/APL2007M4PrimeService/Numbers/Numbers.csproj"
             }
           }
         }
@@ -5564,7 +5564,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -5598,12 +5599,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.15, 8.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.15, 8.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
